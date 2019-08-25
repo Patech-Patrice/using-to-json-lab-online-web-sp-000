@@ -8,3 +8,4 @@ Rails.application.routes.draw do
   get '/products/:id/inventory', to: 'products#inventory'
   
 end
+
